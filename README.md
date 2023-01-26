@@ -8,10 +8,7 @@ Projeto de final de semestre de programação II - do Instituto Federal de Sergi
 
 Autopeca.java - trata-se da aplicação do programa
 
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Os outros arquivos são as entidades do programa
 
 ## Dependency Management
 
