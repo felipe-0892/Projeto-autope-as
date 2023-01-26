@@ -10,7 +10,7 @@ Autopeca.java - trata-se da aplicação do programa
 
 Os outros arquivos são as entidades do programa
 
-O arquivo projeto Lógico de DER servido como diagrama de classe
+O arquivo Projeto de banco de dados - lógico.png, DER servindo como diagrama de classe
 
 ## Dependency Management
 
