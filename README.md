@@ -2,14 +2,12 @@
 
 Projeto de final de semestre de programação II - do Instituto Federal de Sergipe, Campi Aracaju, feito por Larissa e Felipe
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+Autopeca.java - trata-se da aplicação do programa
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
